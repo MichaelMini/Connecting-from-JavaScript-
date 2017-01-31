@@ -1,0 +1,23 @@
+{
+  "name": "connect-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^6.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelMini/Connecting-from-JavaScript-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelMini/Connecting-from-JavaScript-/issues"
+  },
+  "homepage": "https://github.com/MichaelMini/Connecting-from-JavaScript-#readme"
+}
